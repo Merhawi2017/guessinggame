@@ -1,6 +1,6 @@
-##File Number Guessing Game
+## File Number Guessing Game
 
-Sat, Dec 19, 2020  1:08:05 PM
+Sat, Dec 19, 2020  1:12:12 PM
 
-The Lines of code in guessinggame.sh are 
+ - The Lines of code in guessinggame.sh are 
 25
